@@ -25,6 +25,18 @@
 				<string>#3D2E2E77</string>
 				<key>selection</key>
 				<string>#95A3A63D</string>
+				<key>guide</key>
+				<string>#73b8c880</string>
+				
+				<key>bracketsForeground</key>
+				<string>#ddfb00</string>
+				<key>bracketsOptions</key>
+				<string>foreground underline</string>
+				<key>bracketContentsForeground</key>
+				<string>#ddfb00</string>
+				<key>bracketContentsOptions</key>
+				<string>foreground underline</string>
+				
 			</dict>
 		</dict>
 		<dict>
